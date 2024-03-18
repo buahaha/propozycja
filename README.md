@@ -6,3 +6,4 @@ Znamy się tylko trochę, czy potrafię przeskoczyć przez płonącą obręcz?
 2. Chcę mieć rodzinę.
 3. Jestem technikiem informatykiem.
 4. Na imię mam Szymon.
+   ![Szymon Błaszczyński](20230708_171400.jpg)
