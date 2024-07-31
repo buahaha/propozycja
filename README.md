@@ -7,4 +7,6 @@ Znamy się tylko trochę, czy potrafię przeskoczyć przez płonącą obręcz?
 3. Jestem technikiem informatykiem. Jak widać nie pomaga mi to zarobić, na kurwy, bo przecież sobie bym poszedł do burdelu rano i wieczorem ;)
 4. Mów mi jak chcesz.
 5. Dla wszystkich miłośników tajnych depesz i listów pisanych atramentem widocznym jedynie w świetle księżyca - [Nutek Cipher](https://github.com/NutekSecurity/nutek-cipher/releases/tag/v1.0.2) - świeżutko z pieca
-   ![Szymon Błaszczyński](me.jpg)
+6. Proste. Obudzić motyla. Spał w środku drogi. Zresztą ja kiedyś też. Miesiąca miodewego nie będzie w terminie - Nutek mnie potrzebuje, ale można by go też zabrać do Thaiti. Przecież to blisko 💛
+
+   ![Butterfly](IMG_0103.png)
